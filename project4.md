@@ -41,6 +41,12 @@ title: Project 4 - Leader Workaholism Reproductive Health
 
 ---
 
+## Method and Results
+
+[View Full Method and Results](project4-method.html)
+
+---
+
 ## Data
 
 [View Full Dataset](project4-data.html)

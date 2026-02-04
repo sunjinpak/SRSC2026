@@ -43,6 +43,12 @@ title: Project 2 - Leader Workaholism Working Students
 
 ---
 
+## Method and Results
+
+[View Full Method and Results](project2-method.html)
+
+---
+
 ## Data
 
 [View Full Dataset](project2-data.html)
