@@ -13,7 +13,7 @@ Welcome to the CSUB Student Research Projects portal. Select your project below 
 
 | Project | Title | Team |
 |---------|-------|------|
-| [Project 1](project1.html) | Air Quality and Worker Health | Serenity & Hailey |
+| [Project 1](project1.html) | Air Quality and Worker Health | MBA Students (3) |
 | [Project 2](project2.html) | Leader Workaholism and Working Students | Jesus & Eric |
 | [Project 3](project3.html) | Infertility Treatment and Workplace Support | Tina & Cyrina |
 | [Project 4](project4.html) | Leader Workaholism and Reproductive Health | Quin & Michelle |

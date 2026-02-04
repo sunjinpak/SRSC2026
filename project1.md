@@ -5,7 +5,7 @@ title: Project 1 - Air Quality
 
 # Project 1: Air Quality and Worker Health
 
-**Team**: Serenity & Hailey
+**Team**: MBA Students (3)
 
 ## Overview
 
