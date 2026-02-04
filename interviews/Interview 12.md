@@ -1,0 +1,159 @@
+---
+layout: default
+title: Interview 12
+---
+
+[Back to Project 1](../project1.html)
+
+# Interview 12
+
+## Info
+- **Interviewer**: A
+- **Date**: 1/17 12:00 PM
+
+## Links
+- **Video**: [Link](https://csub.zoom.us/rec/share/HNPftOOzTdZlO94HZBDA2J9A_54A7k442N6z0XBNp3f8SWftgl6uiewHi_cYbCpx.AHDtejRqG9SFh2mD) (PW: Y8shs@Uf)
+- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1dwzMhdlm0oR5RnjbwBSrv9W0Tnb4E8G8&usp=drive_fs)
+- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/19-BfcLhXHTd9SY1gcfeBKe6hKXCdDY4e8RDdYVhSfh8?usp=drive_fs)
+
+## Transcript
+[Alejandro Martinez] 12:03:00   
+[Alejandro Martinez] 12:03:34   
+[Alejandro Martinez] 12:03:41   
+[Alejandro Martinez] 12:03:56   
+[Alejandro Martinez] 12:04:01   
+[Alejandro Martinez] 12:04:07   
+[Alejandro Martinez] 12:04:15   
+[Participant 3] 12:04:23   
+[Alejandro Martinez] 12:04:25   
+[Alejandro Martinez] 12:04:35   
+[Participant 3] 12:04:41   
+[Participant 3] 12:04:46   
+[Participant 3] 12:04:59   
+[Alejandro Martinez] 12:05:18   
+[Participant 3] 12:05:36   
+[Alejandro Martinez] 12:05:37   
+[Participant 3] 12:05:42   
+[Participant 3] 12:05:49   
+[Alejandro Martinez] 12:06:05   
+[Alejandro Martinez] 12:06:14   
+[Participant 3] 12:06:26   
+[Participant 3] 12:06:32   
+[Participant 3] 12:06:48   
+[Alejandro Martinez] 12:06:48   
+[Participant 3] 12:07:09   
+[Alejandro Martinez] 12:33:33 
+[Participant 3] 12:33:45 
+[Participant 3] 12:33:50 
+[Alejandro Martinez] 12:33:59 
+[Participant 3] 12:34:07 
+[Participant 3] 12:34:15 
+[Participant 3] 12:34:25 
+[Alejandro Martinez] 12:34:32 
+[Participant 3] 12:34:33 
+[Participant 3] 12:34:39 
+[Alejandro Martinez] 12:34:43 
+[Participant 3] 12:34:48 
+[Alejandro Martinez] 12:34:53 
+[Participant 3] 12:35:02 
+[Participant 3] 12:35:19 
+[Alejandro Martinez] 12:35:24 
+[Participant 3] 12:35:32 
+[Participant 3] 12:35:39 
+[Participant 3] 12:35:47 
+[Participant 3] 12:35:59 
+[Alejandro Martinez] 12:36:04 
+[Participant 3] 12:36:13 
+[Participant 3] 12:36:31 
+[Participant 3] 12:36:45 
+[Alejandro Martinez] 12:36:48 
+[Participant 3] 12:36:56 
+[Participant 3] 12:37:13 
+[Alejandro Martinez] 12:37:16 
+[Alejandro Martinez] 12:37:22 
+[Participant 3] 12:37:25 
+[Alejandro Martinez] 12:37:35 
+[Participant 3] 12:37:44 
+[Participant 3] 12:37:56 
+[Alejandro Martinez] 12:38:07 
+[Alejandro Martinez] 12:38:16 
+[Participant 3] 12:38:25 
+[Participant 3] 12:38:33 
+[Alejandro Martinez] 12:38:47 
+[Alejandro Martinez] 12:38:54 
+[Participant 3] 12:38:56 
+[Participant 3] 12:39:11 
+[Participant 3] 12:39:15 
+[Participant 3] 12:39:20 
+[Participant 3] 12:39:26 
+[Alejandro Martinez] 12:39:29 
+[Participant 3] 12:39:48 
+[Participant 3] 12:39:57 
+[Participant 3] 12:40:19 
+[Alejandro Martinez] 12:40:25 
+[Participant 3] 12:40:32 
+[Participant 3] 12:40:49 
+[Participant 3] 12:40:57 
+[Participant 3] 12:41:10 
+[Participant 3] 12:41:29 
+[Alejandro Martinez] 12:41:39 
+[Participant 3] 12:41:49 
+[Participant 3] 12:42:06 
+[Participant 3] 12:42:10 
+[Participant 3] 12:42:26 
+[Participant 3] 12:42:40 
+[Participant 3] 12:42:53 
+[Alejandro Martinez] 12:42:59 
+[Participant 3] 12:43:10 
+[Participant 3] 12:43:29 
+[Participant 3] 12:43:36 
+[Alejandro Martinez] 12:43:55 
+[Alejandro Martinez] 12:44:07 
+[Participant 3] 12:44:15 
+[Participant 3] 12:44:27 
+[Participant 3] 12:44:32 
+[Participant 3] 12:44:46 
+[Participant 3] 12:45:04 
+[Alejandro Martinez] 12:45:10 
+[Participant 3] 12:45:20 
+[Participant 3] 12:45:33 
+[Participant 3] 12:45:49 
+[Alejandro Martinez] 12:45:57 
+[Participant 3] 12:46:06 
+[Participant 3] 12:46:12 
+[Participant 3] 12:46:22 
+[Participant 3] 12:46:39 
+[Participant 3] 12:46:58 
+[Alejandro Martinez] 12:47:04 
+[Participant 3] 12:47:10 
+[Participant 3] 12:47:17 
+[Participant 3] 12:47:28 
+[Participant 3] 12:47:38 
+[Participant 3] 12:47:44 
+[Alejandro Martinez] 12:47:47 
+[Participant 3] 12:47:53 
+[Participant 3] 12:47:58 
+[Participant 3] 12:48:15 
+[Participant 3] 12:48:29 
+[Participant 3] 12:48:39 
+[Participant 3] 12:48:46 
+[Alejandro Martinez] 12:48:48 
+[Participant 3] 12:48:57 
+[Participant 3] 12:49:17 
+[Participant 3] 12:49:33 
+[Participant 3] 12:49:48 
+[Participant 3] 12:50:08 
+[Participant 3] 12:50:21 
+[Alejandro Martinez] 12:50:29 
+[Participant 3] 12:50:39 
+[Participant 3] 12:50:54 
+[Alejandro Martinez] 12:50:59 
+[Participant 3] 12:51:13 
+[Alejandro Martinez] 12:51:21 
+[Participant 3] 12:51:24 
+
+## Notes
+
+
+## Analysis
+(학생 분석 내용 추가 예정)
