@@ -129,11 +129,23 @@ Once you identify themes, propose **HR policy recommendations** for how companie
 
 ---
 
+## Paper Writing Guide
+
+[View Full Paper Writing Guide](project3-writing-guide.html)
+
+Learn how to write a qualitative research paper based on your Reddit data, including:
+- Paper structure (Introduction, Method, Results/Themes, Discussion)
+- How to create a thematic table
+- How to present quotes and findings
+- HR policy recommendation format
+
+---
+
 ## Project Timeline
 
 1. **Data Collection** → Collect posts from r/IVF into Google Sheet
 2. **Coding/Analysis** → Update codebook and create thematic table
-3. **Paper Writing** → Write up findings and recommendations
+3. **Paper Writing** → Write up findings and recommendations (see [Writing Guide](project3-writing-guide.html))
 4. **Presentation** → Create PPT and prepare for presentation
 
 ---
