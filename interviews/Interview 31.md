@@ -7,15 +7,6 @@ title: Interview 31
 
 # Interview 31
 
-## Info
-- **Interviewer**: H
-- **Date**: 6/24 10:00 AM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1u_PjB4hyP33Ldg7ND0Sh-2hHn8OAP0MH&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1EsNnlpFtEWnCk4KW0VlEeltszIAHS2bZ&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1Ea_wppB9kMUUM8Prw9j21cxlWej0kyZd?rtpof=true&usp=drive_fs)
-
 ## Transcript
 S: Hello, P31!
 P31: Hey, Sunjin, how are you?

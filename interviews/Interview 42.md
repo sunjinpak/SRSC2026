@@ -7,15 +7,6 @@ title: Interview 42
 
 # Interview 42
 
-## Info
-- **Interviewer**: H
-- **Date**: 7/7 11:00 AM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1MjhGNae9nV2arfRY4SBjkhECcCSkNvtg&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1S2fHebkDiGwsuDleFtOl_aqZV86YXMIP&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/17xLZanrsOpdODxUmjWu1HpCHLUBMKltn?rtpof=true&usp=drive_fs)
-
 ## Transcript
 S: Hello, name.
 P42: Hello!

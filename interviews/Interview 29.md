@@ -7,15 +7,6 @@ title: Interview 29
 
 # Interview 29
 
-## Info
-- **Interviewer**: S
-- **Date**: 6/20 10:00 AM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1NeChV1-_yyforgFtgJNl5tj_6a-LDPcJ&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1_5gbrPly4Vb6lyXjLwUpGOC18Iq2dm8Y&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1kYHRdNMK9GAiI1ZGBRIqTA1EfVR7Qj0J?rtpof=true&usp=drive_fs)
-
 ## Transcript
  
 [Participant #29]: Sure, I work as a Admin coordinator assistant with music theater and art department.So basically, my job is to program events through 25 live also scheduling, and any of the just administrative duties that's required of me for those departments.

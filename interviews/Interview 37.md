@@ -7,15 +7,6 @@ title: Interview 37
 
 # Interview 37
 
-## Info
-- **Interviewer**: S
-- **Date**: 6/28 11:00 AM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=11MALReAiTFGa9xxwEhK9Vb3F52MOTClq&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=11Wy5TiqrhDc9Imd1Y6O60fJUcczvu0Ix&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1mAiGLvW6y910sOl6q4OEdtMONvy4E2dI?rtpof=true&usp=drive_fs)
-
 ## Transcript
  
 [Participant #37]: So right now I'm an Hr. Generalist at wonderful pistachios.

@@ -7,15 +7,6 @@ title: Interview 26
 
 # Interview 26
 
-## Info
-- **Interviewer**: H
-- **Date**: 6/17 11:00 AM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1_VRm8nw9xqbUADqScbPkNn90G3KClbTC&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=12AQixboYnJt9BHNrjp7RSkC0txCVqgi-&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1wsgr4vdI4OnNAeh7JE59hdjP_mAPpXRb?rtpof=true&usp=drive_fs)
-
 ## Transcript
 Sung Hyoun Hong: Hello!
 P26: Hello! Good morning! How you doing.

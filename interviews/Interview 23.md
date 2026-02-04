@@ -7,15 +7,6 @@ title: Interview 23
 
 # Interview 23
 
-## Info
-- **Interviewer**: S
-- **Date**: 6/6 8:30 PM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1WmY_u-lKN7T8yYmc38w5y-dRlkn-9jtc&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1iOaYdAHB_0nfpUpAMILugHBl37qOh78G&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1oOXQY5XEt3HkYOPKFki7ruMmGMB6Rt2f?rtpof=true&usp=drive_fs)
-
 ## Transcript
  
 [Participant #23]: You're welcome.

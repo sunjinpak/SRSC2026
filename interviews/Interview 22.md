@@ -7,15 +7,6 @@ title: Interview 22
 
 # Interview 22
 
-## Info
-- **Interviewer**: H
-- **Date**: 6/6 12:00 PM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1b37_CVdZoG8E1OOMGWCodd2uXTMoGaz_&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1HAyjf5cNPmNSyNdKuuEZJeQvR_uiZJaL&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1tp7PwoUFw6yHUa5HlMjW7-1Em5zl7ukq?rtpof=true&usp=drive_fs)
-
 ## Transcript
 S: Hello! P22
 P22: Hi, doctor, how are you doing.

@@ -7,15 +7,6 @@ title: Interview 38
 
 # Interview 38
 
-## Info
-- **Interviewer**: S
-- **Date**: 6/30 11:00 AM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1Q5sptE25-bKHGE6wrmrdRfXBaC0rI-p_&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1rfEbpp4HKIvi75Z8QkqWm71Nmp5bGgPZ&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/17cemqsvPCoLEtseB4A0F6mU3v4RKU380?rtpof=true&usp=drive_fs)
-
 ## Transcript
  
 [Participant #38]: Sure, I'm the data analyst and prospect lead in university advancement. So what that means is, I work in the kind of the back end of every software of university advancement. So I do all of the syncing between systems updating of the softwares updating of contact information for everyone, and I manage the alumni database of record. So that's what I do.

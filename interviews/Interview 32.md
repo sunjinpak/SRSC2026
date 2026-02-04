@@ -7,15 +7,6 @@ title: Interview 32
 
 # Interview 32
 
-## Info
-- **Interviewer**: H
-- **Date**: 6/24 11:00 AM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1U7TlZzC6eq_rAGvJhs1Wmvof4m6T3DQ4&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1og9wbAE3fUyp0HLwp9tIBPmJa9EbBDmn&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1gKbMnreJuf7B14B0rjmVWWhmy0Ie0mRj?rtpof=true&usp=drive_fs)
-
 ## Transcript
 S: Hello! P32!
 P32: Yeah.

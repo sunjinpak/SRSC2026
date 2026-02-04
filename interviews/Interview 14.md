@@ -7,15 +7,6 @@ title: Interview 14
 
 # Interview 14
 
-## Info
-- **Interviewer**: H
-- **Date**: 4/8 11:15 AM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/DniyvhkuBW1LFX2AZAm_pIeqNsJ_n7wFZRZUiXDczH0H2w-YLQ7wR3NNdRxHZp0w.lNmyg-vxdu_BFA0d) (PW: bCi=K5fP)
-- **Transcript (Original)**: [Link](https://drive.google.com/file/d/1_2ihrxQhrdPR43Xir5m4MzcVcG_lo4yI/view?usp=sharing)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1_R_VNOiOlIIm-WOxBb1f42aDHp0eO09r/edit?usp=sharing&ouid=111499124383075523992&rtpof=true&sd=true)
-
 ## Transcript
 S: So I have started this research on how air quality impact employees in Bakersfield and
 S: I heard some story that some of the people are considering move to other community outside of Bakersfield, where the air quality is good because they had experienced a lot of

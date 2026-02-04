@@ -7,15 +7,6 @@ title: Interview 20
 
 # Interview 20
 
-## Info
-- **Interviewer**: H
-- **Date**: 5/26 11:00 AM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=10VzkjIWOQDhXsW9cz3Ea9D5O2es3U4As&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=10aMXzxiPQyGDIn1aXZUOpGzDr0Dsd2lG&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/10g_5nLKRqpwwT7r0WixNWRa_DwuCaef9?rtpof=true&usp=drive_fs)
-
 ## Transcript
 S: Hello, P20!
 P20: Hi.

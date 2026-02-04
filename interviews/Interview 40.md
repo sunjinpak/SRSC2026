@@ -7,15 +7,6 @@ title: Interview 40
 
 # Interview 40
 
-## Info
-- **Interviewer**: S
-- **Date**: 7/1 2:30 PM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1G2DROV1uZb8OOAI-kuh5JbOfCHxj7ncv&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=19fjFNswk5O2MG6re-2otGUMh25fCB-u0&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/17h6ywQhgWa4LAcsmKUyuk83QLtUyAKyf?rtpof=true&usp=drive_fs)
-
 ## Transcript
  
 [Participant #40]: Yeah. So I work at Csub in University advancement. I am the senior event specialist for advancement and also the President's office. So my team and I. We plan events, for on behalf of advancement, for so, like donor events, fundraising events. 

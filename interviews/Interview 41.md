@@ -7,15 +7,6 @@ title: Interview 41
 
 # Interview 41
 
-## Info
-- **Interviewer**: S
-- **Date**: 7/1 3:30 PM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=16naMZY1IKAZNyVHw6f8NeK0m51DWWSGv&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1Lp4oGvmoadJ9ADX6wyoCWBbsQxS7FUEU&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1Soo6Z0w7XC-XzdPAkQUfZbLTlNjLTnfk?rtpof=true&usp=drive_fs)
-
 ## Transcript
  
 [Participant #41]: So I'm a biologist. I'm an associate biologist at Stantec, which is actually an engineering consulting company. But I work in the environmental services part of that company. And so that involves me being out in the field, including today, almost every day. So I'm out.

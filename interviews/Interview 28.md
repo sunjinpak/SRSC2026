@@ -7,15 +7,6 @@ title: Interview 28
 
 # Interview 28
 
-## Info
-- **Interviewer**: H
-- **Date**: 6/19 12:00 PM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1DivHeCBwkdmD6TyzDzBgxyxjMzL88giZ&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1eC5hGW7g06jwlhN3fVBH2N1oHh0DtNFP&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1iHDo0tUsVcJWLPSkl0-KeELAMIc7i9zW?rtpof=true&usp=drive_fs)
-
 ## Transcript
 S: We complete the interview, we will
 S: review the transcription of the interview, and after that we will delete all the recording and also replace all the terminology or the word that we can or other can identify your identification.

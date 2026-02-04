@@ -7,15 +7,6 @@ title: Interview 05
 
 # Interview 05
 
-## Info
-- **Interviewer**: C
-- **Date**: 1/7 11:30 AM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/S1r6OL0i_fNhPlMEFXO1DLCtgNdRX-y4nhPv65rHtsxGFwaubDwQWE6xrvNZBOQX.joS5Su0lOG8OJNO_) (PW: %N8vFmf.)
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1dxgA27LRV-SgXcfN4v__nHjaKUWacvKR&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/10ngv08HLkVoePNLkgdWAZ--t4rvYU8QfjWTGYX59MVA/edit?tab=t.0)
-
 ## Transcript
 P5: Hi!
 P5: Hello!

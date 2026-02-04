@@ -7,15 +7,6 @@ title: Interview 02
 
 # Interview 02
 
-## Info
-- **Interviewer**: K
-- **Date**: 1/6 3:30 PM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/Fy0zyuDbPXTRK_tctXqf4pQJb__fWrIlJWQmPAGW_9lOd-DZrUJGw4WsLGMIcGN7.fWSOD8cKqXuwyYDw) (PW: 4#^JJPyS)
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1MJ21tMUHoYQeBasc0Vca99H5kLf7VPs7&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1IvopgdEqQGl5jU4ZY3J0Y2-L2bqX8UzNmRmKOO9ejoM/edit?tab=t.0)
-
 ## Transcript
 P2: Hello!
 K: Hello!

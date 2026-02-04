@@ -7,15 +7,6 @@ title: Interview 17
 
 # Interview 17
 
-## Info
-- **Interviewer**: H
-- **Date**: 4/29 1:00 PM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/icib6DdTHNDUvA1ruhq9dCMRcYS4c1KI3HRYlK1ZO_fCOmSHJ56RPYYDGM_Qarai.BhPiJfQRz378eip8?startTime=1745956274000) (PW: w?tj%79^)
-- **Transcript (Original)**: [Link](https://drive.google.com/file/d/1ys_iamDL-nRzmpnLL-bPeY7VxoFERWct/view?usp=sharing)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1ywfUjyukhUakZHBkdctwGsKaOQvsbRE6?rtpof=true&usp=drive_fs)
-
 ## Transcript
 S: Okay, so, P17, we are with Sung Hyoun Hong. And he's my colleague
 S: conducting a research on how air quality impacts Bakersfield employees

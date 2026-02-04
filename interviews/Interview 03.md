@@ -7,15 +7,6 @@ title: Interview 03
 
 # Interview 03
 
-## Info
-- **Interviewer**: J
-- **Date**: 1/6 5:00 PM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/Svr5dhLEDlgkfyS4G3wG0COBDGCHyG-EdljZhAW-m2kwNlxtXzu5pvJdxVB-RJ-_.IS0QSmX_QGVjcz_o) (PW: %VNiY8@l)
-- **Transcript (Original)**: [Link](https://drive.google.com/file/d/1-EL2LHITVx4Okc-JkKeCfD7k6ok_qyaf/view?usp=sharing)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1VgxaUm1kAUpGO8XL6bxvQdPa8mJbDyr6L33UJPLhfdg/edit?tab=t.0)
-
 ## Transcript
 [P3]: Hello!
 J: Hello! How are you doing? Is this [P3]?

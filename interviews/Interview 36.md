@@ -7,15 +7,6 @@ title: Interview 36
 
 # Interview 36
 
-## Info
-- **Interviewer**: S
-- **Date**: 6/27 9:30 AM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1o4jFYo9BlO-4X81qw_9fXb4M0c5NNLsN&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1FNlUS6CZRV2e4CEbe7_TVauEiojJhPWN&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1vGsDRZijiXZzxqTNCosn2tWjuLVvoPH8?rtpof=true&usp=drive_fs)
-
 ## Transcript
  
 [Participant #36]: Yes, I am currently an accounts payable supervisor. So I work in the finance department in my office.

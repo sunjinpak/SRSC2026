@@ -7,15 +7,6 @@ title: Interview 16
 
 # Interview 16
 
-## Info
-- **Interviewer**: H
-- **Date**: 4/17 12:00 PM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/Cl0QQK6Ht_VCPoUuvmgw_dryVNxjannpWHLGWBZ9iQaO4AeYFmMRJAfwfJQd_iZr.B3axVB8ONBUQ4zWt) (PW: ?r=kKNk6)
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1dnhOEtPpYwfyppO8vzybxl4w-VyGtfjH&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1dqScYIC4bXqSbbYDoNi32sWWL-8ivdFI?rtpof=true&usp=drive_fs)
-
 ## Transcript
 S: I just wanted to introduce my research about air quality in Bakersfield. And actually, that applies to my, you know, personal experiences. When I first came to Bakersfield in 2022
 S: from Pittsburgh, Pennsylvania.

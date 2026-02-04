@@ -7,15 +7,6 @@ title: Interview 35
 
 # Interview 35
 
-## Info
-- **Interviewer**: S
-- **Date**: 6/26 4:00 PM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1jzdAGP-CTId6LQ3PsZg9M9tfZt7-HoPX&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1MKOmLGlBkYyo09sUXeg4FfEXVWUq0LDx&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1NejqFLQuElYPDuZ3MX-AzS0a_AI9Df-r?rtpof=true&usp=drive_fs)
-
 ## Transcript
  
 [Participant #35]: Sure. So my current role in my job is, I am a senior alumni engagement specialist. My official title at Csu Bakersfield, I handle marketing and communications. That has to do with alumni. I handle like the social media and such. And I also oversee our mentorship program that we.

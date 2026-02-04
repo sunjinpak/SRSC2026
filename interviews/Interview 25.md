@@ -7,15 +7,6 @@ title: Interview 25
 
 # Interview 25
 
-## Info
-- **Interviewer**: S
-- **Date**: 6/9 5:00 PM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1gBhkye-gkHvB9Vaan0WEEX-sl2FOuKdd&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1KVWZJrcC9IF4m_HSok7PeJWgGmPyDynl&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1SdmHl0y0NwSUFEnDlMOjjTvKVN1mzqDu?rtpof=true&usp=drive_fs)
-
 ## Transcript
  
 [Participant #25]: Right now, I'm currently an Hr analyst. I work for an ag company. I'm here in Bakersfield. So we are located like off of Old River. Really in the middle of the fields, like there's nothing but fields around. So I would say, we're impacted by pesticides at least on my drive there. What my actual role is it's about. It's a little bit of like analyzing

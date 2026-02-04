@@ -7,15 +7,6 @@ title: Interview 27
 
 # Interview 27
 
-## Info
-- **Interviewer**: S
-- **Date**: 6/18 10:00 AM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1bMAT-cz1cl6lkepQnXlWlZxcbzIYK391&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1wfA9nxIkr_-ayr-Yp3Qbbkw10MgRc-O1&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/10pF5zlmO20Y_0TY9CVV6ZjIQLdkkKHre?rtpof=true&usp=drive_fs)
-
 ## Transcript
  
 [Participant #27]: I work at Cal State, Bakersfield in the division of University Advancement with alumni engagement. So I'm a coordinator. So I handle a lot of administrative tasks and duties, and I also oversee one of our retiree groups. They're the 60 plus club, and they are a group of community members, alumni and just folks that want to help beautify Csub in any way they help take care of the gardens on campus, and just really try to do more recreational activities, and I help to oversee their their club funds and and treasury, and all too.

@@ -7,15 +7,6 @@ title: Interview 08
 
 # Interview 08
 
-## Info
-- **Interviewer**: A
-- **Date**: 1/9 2:00 PM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/q2MrPrOKm2tuej2oub50R73oACf0FtH7sE9Pu68kVroQMNBE_rLBMT7rbksrmH7-.WyV0Jc5xCHQW-GUa) (PW: kn!&42uj)
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1dwvjWuT_wjw98cG6t-voqzjZmofvzaZB&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1kSPuuFJ0mhTMxpKAmub5vx8AaayZ-GjILtntWORqAAg/edit?tab=t.0)
-
 ## Transcript
 [Alejandro Martinez] 12:30:58 
 [Alejandro Martinez] 12:31:09 

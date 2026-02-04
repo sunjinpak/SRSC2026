@@ -7,15 +7,6 @@ title: Interview 07
 
 # Interview 07
 
-## Info
-- **Interviewer**: K
-- **Date**: 1/8 6:00 PM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/v-Ou2hHMaUAJr5VJrEJrIZlte-4E-w0q1J2nv-e9MS79TID5dy-L1uTJroeKm5hb.zLv9o47tJkjLLyzP) (PW: =S@fs8^P)
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1MI4bt1JvVyHv0qbZbrlmPAUH9iZdjRBe&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/156ZRfmlk0FQ9oo-M8DFsnzl0KlOyrUOJf9JA-viqvII/edit?tab=t.0)
-
 ## Transcript
 K: Hey, how are you?
 P7: Hello!

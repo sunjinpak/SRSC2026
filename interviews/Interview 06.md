@@ -7,15 +7,6 @@ title: Interview 06
 
 # Interview 06
 
-## Info
-- **Interviewer**: C
-- **Date**: 1/8 9:30 AM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/wn071Y3MUArQ54kRypXNp7sTtDIsByw76YznL5MRba7hSaxS3Y0FYUCM6mIyKSKW.7WgtZ7xvi63rD__1) (PW: s8INn.in)
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1dxp6ud1_d3Ihg8MnDJfqDC2QMVo3mXGf&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1yc7PkM9sr0kcZ9kY8ihumbVwLupm7XJPxGmWaw1uGxI/edit?tab=t.0)
-
 ## Transcript
 P6: Hello!
 C: So, Hi name, good morning.

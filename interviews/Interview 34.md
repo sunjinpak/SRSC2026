@@ -7,15 +7,6 @@ title: Interview 34
 
 # Interview 34
 
-## Info
-- **Interviewer**: H
-- **Date**: 6/26 3:00 PM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=12CbxQzqa7dc8jDXt_Q9Ocf4oX06vx-xe&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1RyExb0GKKvbLAJCyR0rMzBD_34rSL3GG&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1-_q5H4SgQwfvgwm_5gILBsqj-fWPImMS?rtpof=true&usp=drive_fs)
-
 ## Transcript
 S: Hello, P34!
 P34: Hi! How are you?

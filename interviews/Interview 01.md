@@ -7,15 +7,6 @@ title: Interview 01
 
 # Interview 01
 
-## Info
-- **Interviewer**: J
-- **Date**: 1/2 4:30 PM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/zwhPoEgkHyUCSzZe0Vl71XBJ0aoMNzEBTrvIL0KLOdpRBQPUNTZDQdNg1kQGIE3A.IpPGr6aCjCiflRR7) (PW: @J4%0ZE0)
-- **Transcript (Original)**: [Link](https://drive.google.com/file/d/1-BrjfCcgZY0tvrE-rSRc96FgFpMQFNLX/view?usp=sharing)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1bHumcXGJHPyWdNfCCwbyKXXczDVUEpjnuApOqSLgPkc/edit?tab=t.0)
-
 ## Transcript
 J: Hi, P1! How are you?
 P1: Yeah, I'm good. And you, how you doing?

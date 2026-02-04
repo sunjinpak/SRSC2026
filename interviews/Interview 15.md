@@ -7,15 +7,6 @@ title: Interview 15
 
 # Interview 15
 
-## Info
-- **Interviewer**: S
-- **Date**: 4/8 3:00 PM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/cBVrQgPe6qnZ3YjfWdwxSKi27icwwpTU0XQWnh7qjokN0zoJLZngtKPx367fNPqq.YPluIMlk9uf1qT_6) (PW: BD?1q#kc)
-- **Transcript (Original)**: [Link](https://drive.google.com/file/d/1_QknERRDQCy6-vrijQCU0Hu70Zp3DibQ/view?usp=sharing)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1_SZ6IJgZoSfiyFJPFPfSObZSieOuCBkU/edit?usp=sharing&ouid=111499124383075523992&rtpof=true&sd=true)
-
 ## Transcript
 S: So this research we are conducting is about air quality in Bakersfield, and I'm conducting a research with my colleagues. Dr. Lee at Loyola Marymount University, you know, in Los Angeles, and Sung Hyoun Hong from Georgia State University.
  

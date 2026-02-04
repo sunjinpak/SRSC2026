@@ -7,15 +7,6 @@ title: Interview 30
 
 # Interview 30
 
-## Info
-- **Interviewer**: S
-- **Date**: 6/23 1:00 PM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=15UBI1jX5FX3p6P_U7aGWzjvKirLjtTTH&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1ijRUD5bdSgvyGv3CE5cCAfIQiP1gj8Ch&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1FLyUH0t9pd4ZezfItKAb3fnL8iyx49Uw?rtpof=true&usp=drive_fs)
-
 ## Transcript
 S: Okay? So let's talk about your current role and responsibilities. So can you please tell us about your current role in your job?
  

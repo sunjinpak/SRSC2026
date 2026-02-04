@@ -7,15 +7,6 @@ title: Interview 13
 
 # Interview 13
 
-## Info
-- **Interviewer**: K
-- **Date**: 1/18 11:00 AM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/mubd0nn-aTfk7QJg9nfYJ5Fg6yU-hvfIotu00gqRVrhA2DZeHfxczXXhAf4qG3C1.qN9Fpj6KnqgMHSUx) (PW: $7Z&VgXJ)
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=19dNBfr2o6-O8CsZj67l-aNy2yFqMO1ZC&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1DnkKuFaFsif-HxeOUJ7i84jYo3Wc374fScmcSN4-2cc/edit?usp=sharing)
-
 ## Transcript
 K: Hey, how are you?
 P13: Good morning.

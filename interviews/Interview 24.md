@@ -7,15 +7,6 @@ title: Interview 24
 
 # Interview 24
 
-## Info
-- **Interviewer**: H
-- **Date**: 6/9 12:30 PM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1kIZQxrLANnZvYXweFQsUGUfvD3lrElHN&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1yxk3zzqBO-GZya9353dQwjr0qtQaDji7&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1ZfnjkUE6BEPgblksKMOxjLvikozV-8Gy?rtpof=true&usp=drive_fs)
-
 ## Transcript
 P24: Let me see.
 P24: Can you hear me?

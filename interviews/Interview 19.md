@@ -7,15 +7,6 @@ title: Interview 19
 
 # Interview 19
 
-## Info
-- **Interviewer**: H
-- **Date**: 5/22 5:15 PM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=106uDAjr1TdbOhTHFMXkgIQZWZDk5wZOu&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1-pYEZF20QpOUoUNIcGbK9Zh6QeZgRVOR&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/10Du50pdfrmYLwtPTmIsFLjk2OMpkYk5a?rtpof=true&usp=drive_fs)
-
 ## Transcript
 1-2
 S: Okay, so first, I will briefly read the introduction of our interview protocol and this is a semi-structured interview, so most of the questions are already planned.

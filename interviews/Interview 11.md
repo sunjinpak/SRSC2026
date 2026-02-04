@@ -7,15 +7,6 @@ title: Interview 11
 
 # Interview 11
 
-## Info
-- **Interviewer**: A
-- **Date**: 1/15 12:30 PM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/9Yb6wcx9T8izs2FvBOw0Bq7_qovXZuGdfFt8B2A55SDSt5S7EN9QNV4aTfkDmauZ.HU7TtaDxsmmg6vwd) (PW: gd!AQu7a)
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1dvmESpctIvT2sMnRD2UCtU9jJQBdO7xR&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1rlSofhCdA9KNFDInlPUZiXf-A_7OhIdpc-R3x2asb78/edit?tab=t.0)
-
 ## Transcript
 [Alejandro Martinez] 14:07:11 
 [Alejandro Martinez] 14:07:23 

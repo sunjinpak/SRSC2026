@@ -7,15 +7,6 @@ title: Interview 10
 
 # Interview 10
 
-## Info
-- **Interviewer**: Kh
-- **Date**: 1/12 5:00 PM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/bX0jYSdPcOvOetBvBaR_xDXAkZQgJUdPWv8iX3Weade4gAAPmHEGV3uSMhHFHPYl.mclS3HCKMCzVNxtR) (PW: s1ijg%m7)
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1du_VhWyP3DPejDZC1BLQEdYSO05roSoN&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1ct9xCJKNj0PpNbU0hktd5XDCkkks-7j9G_HMOKEF2tI/edit?tab=t.0)
-
 ## Transcript
 P10: Hello!
 Kh: Hi, P10! How are you?

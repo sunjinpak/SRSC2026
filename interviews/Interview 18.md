@@ -7,15 +7,6 @@ title: Interview 18
 
 # Interview 18
 
-## Info
-- **Interviewer**: S
-- **Date**: 5/22 4:00 PM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1-y2H9kUpJTbur9fBbPqXcnQ5U7wAmTCk&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1-lve_FPldQV93peAvxOY_VtRhZjEyGKF&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/10BcJwXVT-2YhXbb2dZe3jgqH2MRzJlMQ?rtpof=true&usp=drive_fs)
-
 ## Transcript
 S: Andrew, we appreciate your willingness to participate in this interview, which should take about 45 min, and once we finish the interview you will receive $40
 Amazon gift card, and our goal is to understand your experiences, living and working in San Joaquin Valley, especially concerning environmental issues like air pollution. Your insights are valuable and will help us better comprehend how these experiences influence community connections.

@@ -7,15 +7,6 @@ title: Interview 21
 
 # Interview 21
 
-## Info
-- **Interviewer**: S
-- **Date**: 5/29 11:00 AM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=12WTl2WRVH3r5Tf3GqjRe1ocvtSuYzP-C&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=12VpDjeMD9jtVA1CcnJhFzPXD2IhIU-y9&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/10xzynU7hOka4a5ztbz5V0ZDpQf3YMxXF?rtpof=true&usp=drive_fs)
-
 ## Transcript
  
 [Participant #21]: So I work for Bakersfield College. And I do. I do educational advising.

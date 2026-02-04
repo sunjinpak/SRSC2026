@@ -7,15 +7,6 @@ title: Interview 04
 
 # Interview 04
 
-## Info
-- **Interviewer**: C
-- **Date**: 1/7 10:30 AM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/rhTOIwgvo1PpziQe4fVHFjqdwx4Q_P1nywwSthjlyZWhQDADbt7-ksf2gIcz4BgI.WxWYPBn7E_PHd2b5) (PW: Qgv0zC%j)
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1dxHNS09UgAaImdlZW46pd4LiVP1aRs0V&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/15LLx2u3nB8l6kCAf0fz3eGruhf-FsJ_rLQtJEMCdLjQ?usp=drive_fs)
-
 ## Transcript
 C: Hi, name! Can you hear me?
 P4: Hi! I can hear you.

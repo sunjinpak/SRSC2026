@@ -7,15 +7,6 @@ title: Interview 39
 
 # Interview 39
 
-## Info
-- **Interviewer**: S
-- **Date**: 7/1 1:30 PM
-
-## Links
-- **Video**: [Link](https://drive.google.com/open?id=1WXDvu3CEIgvvNRfydiFLMmIbF1v25Ibq&usp=drive_fs) (PW: )
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1bof2cXcwWq5JyvgZ9P-Udd8sKKKz9aGU&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/1cvNWYCcrlHDSE45kNRueB3yzwxFyHu2c?rtpof=true&usp=drive_fs)
-
 ## Transcript
 S: Okay. So Participant #39, can you tell us about your current role in your job?
  

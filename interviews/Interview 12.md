@@ -7,15 +7,6 @@ title: Interview 12
 
 # Interview 12
 
-## Info
-- **Interviewer**: A
-- **Date**: 1/17 12:00 PM
-
-## Links
-- **Video**: [Link](https://csub.zoom.us/rec/share/HNPftOOzTdZlO94HZBDA2J9A_54A7k442N6z0XBNp3f8SWftgl6uiewHi_cYbCpx.AHDtejRqG9SFh2mD) (PW: Y8shs@Uf)
-- **Transcript (Original)**: [Link](https://drive.google.com/open?id=1dwzMhdlm0oR5RnjbwBSrv9W0Tnb4E8G8&usp=drive_fs)
-- **Transcript (Revised)**: [Link](https://docs.google.com/document/d/19-BfcLhXHTd9SY1gcfeBKe6hKXCdDY4e8RDdYVhSfh8?usp=drive_fs)
-
 ## Transcript
 [Alejandro Martinez] 12:03:00   
 [Alejandro Martinez] 12:03:34   
