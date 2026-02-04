@@ -45,8 +45,6 @@ title: Project 4 - Leader Workaholism Reproductive Health
 
 [View Full Dataset](project4-data.html)
 
-**Data File**: [Data_QuinMichelle_Clean.xlsx](https://docs.google.com/spreadsheets/d/)
-
 ---
 
 ## Codebook

@@ -47,8 +47,6 @@ title: Project 2 - Leader Workaholism Working Students
 
 [View Full Dataset](project2-data.html)
 
-**Data File**: [Data_JesusEric_Clean.xlsx](https://docs.google.com/spreadsheets/d/1CFPfVthxXhWM2nncaMf-n7-8NzE5fSl6hL3B-SD1Mz0/)
-
 ---
 
 ## Codebook
