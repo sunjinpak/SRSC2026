@@ -28,6 +28,7 @@ This document provides instructions for writing your research paper and preparin
 - [Hypotheses](project4-hypotheses.html) - Your research hypotheses
 - [Method and Results](project4-method.html) - Method section and results (already written)
 - [Codebook](project4-codebook.html) - Variable descriptions and data dictionary
+- [Data](project4-data.html) - Full dataset
 
 ### Paper Structure
 

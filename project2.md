@@ -28,6 +28,7 @@ This document provides instructions for writing your research paper and preparin
 - [Hypotheses](project2-hypotheses.html) - Your research hypotheses
 - [Method and Results](project2-method.html) - Method section and results (already written)
 - [Codebook](project2-codebook.html) - Variable descriptions and data dictionary
+- [Data](project2-data.html) - Full dataset
 
 ### Paper Structure
 
