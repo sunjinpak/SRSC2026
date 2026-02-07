@@ -3,105 +3,128 @@ layout: default
 title: Project 2 - Leader Workaholism Working Students
 ---
 
-# Project 2: Leader Workaholism and Working Students
+# Project 2 Instructions
+
+**Title**: The Impact of Leader Workaholism on Working Students' Emotional Exhaustion and School Withdrawal
 
 **Team**: Jesus & Eric
 
-**Title**: The impact of leader workaholism on working students' emotional exhaustion and school withdrawal
+**Competition**: Student Research Competition
 
 ---
 
-## Hypotheses
+## Overview
 
-| Hypothesis | Prediction | Result |
-|------------|------------|--------|
-| H1 | Leader workaholism (cognitive) → After-hours ICT use (+) | **Supported** (*B* = 0.36, *p* = .004) |
-| H2 | After-hours ICT use → Emotional exhaustion (+) | **Supported** (*B* = 0.35, *p* < .001) |
-| H3 | Emotional exhaustion → School psychological withdrawal (+) | **Supported** (*B* = 0.12, *p* = .021) |
+This document provides instructions for writing your research paper and preparing your presentation for the Student Research Competition.
 
 ---
 
-## Sample
+## 1. Paper Writing
 
-- **N** = 115 working students
-- 80% female
-- Average age: 24.91 years
-- 55.7% Hispanic/Latino
-- Average work hours: 37.05 hours/week
-- Average credit hours: 14.20
+### Resources
 
----
+- [Quantitative Research Paper Guide](https://sunjinpak.github.io/SRSC2026/quant-paper-guide.html) - How to write a quantitative research paper in APA format
+- [Literature Review Guide](https://sunjinpak.github.io/SRSC2026/lit-review-guide.html) - How to conduct a literature review
+- [Hypotheses](project2-hypotheses.html) - Your research hypotheses
+- [Method and Results](project2-method.html) - Method section and results (already written)
+- [Codebook](project2-codebook.html) - Variable descriptions and data dictionary
 
-## Key Variables
+### Paper Structure
 
-| Variable | Description | Items | Scale |
-|----------|-------------|-------|-------|
-| MWS_5-8 | Leader Workaholism - Cognitive | 4 items | 1-5 Likert |
-| ICT frequency | After-hours ICT use | 1 item | 1-5 Frequency |
-| Emotional exhaustion_1-5 | Emotional Exhaustion | 5 items | 1-5 Likert |
-| psyc_withdrawal_1.1-8.1 | School Psychological Withdrawal | 8 items | 1-5 Frequency |
+Your final paper should include:
 
----
+1. **Title Page** - Title, authors, affiliation
+2. **Abstract** - 150-250 words summarizing your study
+3. **Introduction** - Literature review and hypotheses
+4. **Method** - Participants, procedure, measures, analytic strategy
+5. **Results** - Preliminary analyses and hypothesis tests
+6. **Discussion** - Interpretation, implications, limitations, future directions
+7. **References** - APA 7th edition format
+8. **Tables** - Correlation table, regression results
 
-## Method and Results
+### What You Need to Write
 
-[View Full Method and Results](project2-method.html)
+| Section | Status |
+|---------|--------|
+| Title Page | To do |
+| Abstract | To do |
+| Introduction | To do |
+| Method | Provided in [Method and Results](project2-method.html) |
+| Results | Provided in [Method and Results](project2-method.html) |
+| Discussion | To do |
+| References | To do |
 
----
+### Writing Tips
 
-## Data
-
-[View Full Dataset](project2-data.html)
-
-**Download**: [Data_JesusEric_Clean.xlsx](Data_JesusEric_Clean.xlsx)
-
----
-
-## Codebook
-
-### Leader Workaholism Scale - Cognitive Subscale (MWS_5-8)
-
-Scale: 1 = Strongly disagree to 5 = Strongly agree
-
-| Variable | Item |
-|----------|------|
-| MWS_5 | It feels like my supervisor cannot stop themself from thinking about working |
-| MWS_6 | In general, it seems that my supervisor spends their free time thinking about work |
-| MWS_7 | It seems that at any given time, the majority of my supervisor's thoughts are work related |
-| MWS_8 | It seems that it is difficult for my supervisor to stop thinking about work when they stop working |
-
-### Emotional Exhaustion
-
-Scale: 1 = Strongly disagree to 5 = Strongly agree
-
-| Variable | Item |
-|----------|------|
-| Emotional exhaustion_1 | I feel emotionally drained from my work |
-| Emotional exhaustion_2 | I feel fatigued when I have to get up in the morning to face another day on the job |
-| Emotional exhaustion_3 | I feel "burned out" from my work |
-| Emotional exhaustion_4 | I feel like I'm at the end of my rope |
-| Emotional exhaustion_5 | I feel "used up" at the end of the day |
-
-### School Psychological Withdrawal
-
-Scale: 1 = Never to 5 = Always
-
-| Variable | Item |
-|----------|------|
-| psyc_withdrawal_1.1 | I have thoughts of being absent for the class |
-| psyc_withdrawal_2.1 | During the class, I chat or text messages with classmates about non-work topics |
-| psyc_withdrawal_3.1 | I left classroom for unnecessary reasons |
-| psyc_withdrawal_4.1 | I daydream at my class |
-| psyc_withdrawal_5.1 | In my class, I spent time on personal matters |
-| psyc_withdrawal_6.1 | I put less effort into my class than should have |
-| psyc_withdrawal_7.1 | I have thoughts of leaving current program in my school |
-| psyc_withdrawal_8.1 | In my class, I let other team members do my assignments |
+1. Start with the **Introduction** - build the theoretical foundation for your hypotheses
+2. Use the [Quantitative Research Paper Guide](https://sunjinpak.github.io/SRSC2026/quant-paper-guide.html) for APA formatting
+3. Look at the sample CCSM paper linked in the guide
+4. Keep your writing clear and concise
+5. **Collaboration**: Use [Google Docs](https://docs.google.com/) to write with your co-author in real-time
 
 ---
 
-## SRC 2026 Submission
+## 2. Presentation
 
-- [SRC 2026 Application Guidelines](https://www.csub.edu/grasp/_files/SRC-2026-Application-Guidelines.docx)
+See [Research Presentation Guide](https://sunjinpak.github.io/SRSC2026/presentation-guide.html) for detailed instructions on creating your PowerPoint presentation.
+
+**Key Info:**
+- **Presentation**: 10 minutes
+- **Q&A**: 5 minutes
+- Both team members should present
+
+---
+
+## 3. Timeline
+
+### Student Research Competition (SRC)
+
+The competition is held to promote excellence in undergraduate and graduate scholarly research and creative activity by recognizing outstanding student accomplishments at California State University, Bakersfield.
+
+| Task | Deadline |
+|------|----------|
+| Draft Introduction | February 14, 2026 (Fri) |
+| Draft Discussion | February 19, 2026 (Wed) |
+| Complete Paper & Application | **February 23, 2026 (Mon)** |
+| Prepare Presentation (PPT) | February 24 - March 5, 2026 |
+| **SRC Presentation** | **March 6, 2026 (Fri)** 8:30 AM - 1:30 PM |
+
+**Resources:**
+- [SRC Application Portal (InfoReady)](https://csub.infoready4.com)
+- [SRC Application Guidelines](https://www.csub.edu/grasp/_files/SRC-2026-Application-Guidelines.docx)
+- [GRASP - Student Research Competition](https://www.csub.edu/grasp/student-research-competition-src.shtml)
+
+**Contact:**
+- Manuel Barrera (GRASP Office)
+- Email: mbarrera@csub.edu
+- Phone: 661-654-3534
+
+### Student Poster Board Presentation (SPP)
+
+| Task | Deadline |
+|------|----------|
+| Application | March 25, 2026 |
+| **Poster Presentation** | **April 8, 2026** |
+
+- [GRASP - Student Poster Board Presentation](https://www.csub.edu/grasp/student-poster-board-presentation.shtml)
+
+---
+
+## 4. Questions?
+
+Contact Dr. Pak if you have any questions about:
+- Paper writing
+- Data analysis
+- Presentation preparation
+
+---
+
+## Project Files
+
+- [Hypotheses](project2-hypotheses.html)
+- [Method and Results](project2-method.html)
+- [Codebook](project2-codebook.html)
+- [Data](project2-data.html)
 
 ---
 
